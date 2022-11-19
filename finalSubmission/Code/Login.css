@@ -1,0 +1,90 @@
+body{
+    background: url('https://clipstrip.com/pop-fuel/wp-content/uploads/2018/04/HowTo101_The-Basics-of-Managing-Retail-Inventory-1200x802.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+div.loginheader{
+    text-align: center;
+}
+div.loginheader{
+    margin-bottom: 50px;
+}
+div.loginheader h1{
+    font-size: 100px;
+    color: #fff;
+    background-color: rgba(0,0,0,.5);    
+    padding: 0px;
+    margin: 0px;
+}
+div.loginheader p{
+    color: #fff;
+    background-color: rgba(0,0,0,.5);  
+}
+div.loginheader p{
+    font-size: 50px;
+    margin: 0px;
+    text-transform: uppercase;
+}
+div.loginheader p:after{
+    content: '';
+    display: block;
+    height: 5px;
+    background: rgb(120, 123, 123);
+    margin: 0 auto;
+}
+div.loginbody form{
+    margin: 0 auto;
+    width: 450px;
+    background: rgb(0, 0, 0,.5);
+    padding: 50px;
+    border: 2px solid rgb(240, 235, 235);
+    border-radius: 10px;
+}
+div.loginInputContainer{
+    margin-top: 20px;
+}
+div.loginInputContainer label{
+    display: block;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+div.loginInputContainer input{
+    height: 30px;
+    width: 70%;
+    border: 2px solid #fff;
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 30px;
+}
+div.loginButtonContainer{
+    margin-top: 40px;
+    text-align: center;
+}
+div.loginButtonContainer button{
+    font-size: 20px;
+    padding: 10px 30px;
+    border: none;
+    background: #0942F7;
+    color: #fff;
+}
+div.loginButtonContainer :hover{
+    transform: scale(.5s);
+}
+.fpassword a{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+div.RegisterButtonContainer button{
+    position: absolute;
+    right: 2%;
+    top: 3%;
+    font-size: 20px;
+    padding: 10px 30px;
+    border: none;
+    background: #edeff3ea;
+    color: rgb(13, 12, 12);
+    border-radius: 10px;
+}
